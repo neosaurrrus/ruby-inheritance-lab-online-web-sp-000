@@ -7,4 +7,10 @@ class User
     @knowledge = []
   end
 
+  def knowledge
+
+  end
+
+
+
 end
