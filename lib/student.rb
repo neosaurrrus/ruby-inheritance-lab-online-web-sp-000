@@ -10,6 +10,7 @@ class Student < User
   end
 
 
-
+  def learn(lesson)
+    @knowledge << lesson
 
 end
